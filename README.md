@@ -22,7 +22,7 @@ To create a new virutal env for this seminar, run the following commands from yo
 1. Create a new virtual env named 'ml_bias_seminar' with the latest version of Python3:
  	- `conda create -n sose23_xai_ac python=3.9`
 2. Activate the new virtual env:
-	- `conda activate xai_ac`
+	- `conda activate sose23_xai_ac`
 3. Install the required Python packages (The requirements.txt will be updated to include all necessary packages for the notebook assignments)
 	- `pip install -r requirements.txt`
 
