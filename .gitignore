@@ -1,0 +1,9 @@
+localdata/
+Scratch/
+Solutions/
+
+.zip
+.pkl
+.pyc
+.ipynb_checkpoints/
+__pycache__/
