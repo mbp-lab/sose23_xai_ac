@@ -1,8 +1,10 @@
 jupyterlab==3.5
 matplotlib==3.7.1
-numpy==1.24.2
+numpy==1.23.1
 pandas==1.5.3
 scikit_learn==1.2.2
 seaborn==0.12.2
 tensorflow==2.11
 lime
+dice_ml==0.9
+shap
